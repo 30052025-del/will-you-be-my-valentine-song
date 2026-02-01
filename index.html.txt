@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>For Shelmith ❤️</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="card">
+    <h1>Dear Shelmith 💕</h1>
+
+    <img src="images/us.jpg" alt="Us together" class="photo">
+
+    <p>
+      Every moment with you feels safe, warm, and real.  
+      You are my peace, my smile, my favorite place to be.
+    </p>
+
+    <h2>Will you be my Valentine? 🌹</h2>
+
+    <div class="buttons">
+      <button id="yesBtn">YES ❤️</button>
+      <button id="noBtn">NO 🙈</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
